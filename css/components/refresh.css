@@ -37,7 +37,7 @@
   }
 }
 
-@media (min-width: 525px) {
+@media (min-width: 600px) {
   .refresh__button {
     width: 210px;
     background-image: none;
